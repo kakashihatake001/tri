@@ -1,0 +1,93 @@
+body{
+  background-color: #CFF5E7;
+  margin: 0;
+}
+.top-container{
+  background-color: #A0E4CB;
+  height:80px;
+
+}
+h1{
+
+    font-family: 'Sacramento',serif;
+    font-size: 100%;
+}
+h5{
+  font-size: 100%;
+}
+.me{
+  position:relative;
+  bottom: -10px;
+  right: 10px;
+  font-size: 20px;
+}
+.damon{
+  position: relative;
+  bottom: 30px;
+  right: 10px;
+  color: #3A8891;
+  font-size: 60px;
+}
+.dsk1{
+  position: relative;
+  width: 380px;
+  height: 480px;
+  right: 500px;
+  bottom:-50px;
+  background-size: cover;
+}
+.web{
+  text-align: center;
+  position: relative;
+  top: -78px;
+  right: 20px;
+  font-family:'Leckerli One',sans-serif;
+
+}
+.hai{
+  font-family:'Leckerli One',sans-serif;
+
+position: relative;
+right: 10px;
+bottom:50px;
+}
+.name{
+  font-family:'Ubuntu',sans-serif;
+  position: relative;
+  right: 20px;
+  bottom:-40px;
+  font-size: 15px;
+}
+.hr{
+  border-style: dotted none none;
+  width: 90px;
+  border-color: grey;
+  border-width: 5px;
+  position: relative;
+  bottom: -20px;
+}
+.about{
+height:80px;
+}
+.sk{
+  text-align: center;
+  font-family:'Signika Negative',sans-serif;
+  font-size: 20px;
+  padding-top: 15px;
+}
+.well{
+  font-family:'Signika Negative',sans-serif;
+}
+.skil{
+    font-family:'Signika Negative',sans-serif;
+    text-align: center;
+    position: relative;
+    bottom: 20px;
+}
+.hr2{
+  border-style: dotted none none;
+  width: 90px;
+  border-color: grey;
+  border-width: 5px;
+  position: relative;
+  bottom: -20px;
